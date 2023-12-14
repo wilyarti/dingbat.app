@@ -1,4 +1,5 @@
-# DINGBAT.APP
+#  ![alt text](./public/favicon-32x32.png) DINGBAT.APP
+
 
 Track your workouts, strength progression and more!
 ===================================================
