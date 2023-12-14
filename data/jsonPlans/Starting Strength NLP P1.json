@@ -1,0 +1,1638 @@
+{
+  "weekSettings": {
+    "week_id": 2808,
+    "week_name": "Starting Strength NLP P1 Week 1",
+    "number_of_days": 7,
+    "number_of_workouts": 3,
+    "workouts": [],
+    "workouts_indexs": [
+      0,
+      null,
+      1,
+      null,
+      2,
+      null,
+      null
+    ],
+    "number_of_cardio": 0,
+    "cardio": [],
+    "cardio_indexs": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "weekSettingsArray": [
+    {
+      "week_id": 2808,
+      "week_name": "Starting Strength NLP P1 Week 1",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12751,
+        12752,
+        12753
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "week_id": 2809,
+      "week_name": "Starting Strength NLP P1 Week 2",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12754,
+        12755,
+        12756
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "week_id": 2810,
+      "week_name": "Starting Strength NLP P1 Week 3",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12757,
+        12758,
+        12759
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "week_id": 2811,
+      "week_name": "Starting Strength NLP P1 Week 4",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12760,
+        12761,
+        12762
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "week_id": 2812,
+      "week_name": "Starting Strength NLP P1 Week 5",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12763,
+        12764,
+        12765
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "week_id": 2813,
+      "week_name": "Starting Strength NLP P1 Week 6",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12766,
+        12767,
+        12768
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "week_id": 2814,
+      "week_name": "Starting Strength NLP P1 Week 7",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12769,
+        12770,
+        12771
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "week_id": 2815,
+      "week_name": "Starting Strength NLP P1 Week 8",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12772,
+        12773,
+        12774
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "week_id": 2816,
+      "week_name": "Starting Strength NLP P1 Week 9",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12775,
+        12776,
+        12777
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "week_id": 2817,
+      "week_name": "Starting Strength NLP P1 Week 10",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12778,
+        12779,
+        12780
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "week_id": 2818,
+      "week_name": "Starting Strength NLP P1 Week 11",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12781,
+        12782,
+        12783
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "week_id": 2819,
+      "week_name": "Starting Strength NLP P1 Week 12",
+      "number_of_days": 7,
+      "number_of_workouts": 3,
+      "workouts": [
+        12784,
+        12785,
+        12786
+      ],
+      "workouts_indexs": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "number_of_cardio": 0,
+      "cardio": [],
+      "cardio_indexs": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ],
+  "planSettings": {
+    "plan_id": 366,
+    "price": 0,
+    "plan_name": "Starting Strength NLP P1",
+    "owner": -1,
+    "number_of_weeks": 12,
+    "weeks": [],
+    "description": "<p>The is Phase 1 of the Starting Strength NLP (Novice Linear Progression).<\/p><p><br><\/p><p>Refer to the original website for details: https:\/\/startingstrength.com\/get-started\/programs<\/p><p><br><\/p><p><br><\/p><p><br><\/p><p><br><\/p><p><br><\/p><p><br><\/p><p><br><\/p><p><br><\/p>"
+  },
+  "planSelected": "366",
+  "workoutSettings": {
+    "workout_id": null,
+    "workout_name": "Workout Name",
+    "muscles": [],
+    "number_of_circuits": 0,
+    "circuits": [],
+    "circuit_sets": [],
+    "circuit_reps": [],
+    "number_of_exercises": 4,
+    "exercises": [],
+    "exercises_sets": [],
+    "exercises_reps": [],
+    "adapter": 0,
+    "adapter_array": {
+    
+    }
+  },
+  "workoutSettingsArray": [
+    [
+      {
+        "workout_id": 12751,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+        }
+      },
+      {
+        "workout_id": 12752,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12753,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+        }
+      }
+    ],
+    [
+      {
+        "workout_id": 12754,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+        }
+      },
+      {
+        "workout_id": 12755,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+    
+        }
+      },
+      {
+        "workout_id": 12756,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+ 
+        }
+      }
+    ],
+    [
+      {
+        "workout_id": 12757,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+        }
+      },
+      {
+        "workout_id": 12758,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+        }
+      },
+      {
+        "workout_id": 12759,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+        }
+      }
+    ],
+    [
+      {
+        "workout_id": 12760,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12761,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12762,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      }
+    ],
+    [
+      {
+        "workout_id": 12763,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12764,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12765,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      }
+    ],
+    [
+      {
+        "workout_id": 12766,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12767,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12768,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      }
+    ],
+    [
+      {
+        "workout_id": 12769,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12770,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12771,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      }
+    ],
+    [
+      {
+        "workout_id": 12772,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12773,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12774,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      }
+    ],
+    [
+      {
+        "workout_id": 12775,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12776,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12777,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      }
+    ],
+    [
+      {
+        "workout_id": 12778,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12779,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12780,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      }
+    ],
+    [
+      {
+        "workout_id": 12781,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12782,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12783,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      }
+    ],
+    [
+      {
+        "workout_id": 12784,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12785,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          5,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "13",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      },
+      {
+        "workout_id": 12786,
+        "workout_name": "Week: 1 Workout: 1",
+        "muscles": [
+          3,
+          7,
+          1
+        ],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 3,
+        "exercises": [
+          "12",
+          "26",
+          "19"
+        ],
+        "exercises_sets": [
+          "3",
+          "3",
+          "1"
+        ],
+        "exercises_reps": [
+          "5",
+          "5",
+          "5"
+        ],
+        "adapter": "0",
+        "adapter_array": {
+          
+        }
+      }
+    ]
+  ]
+}

@@ -1,0 +1,3031 @@
+{
+    "weekSettings": {
+        "week_id": null,
+        "week_name": "Example Week",
+        "number_of_days": 7,
+        "number_of_workouts": 5,
+        "workouts": [],
+        "workouts_indexs": [
+            0,
+            1,
+            null,
+            2,
+            4,
+            5,
+            null,
+            null
+        ],
+        "number_of_cardio": 2,
+        "cardio": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "cardio_indexs": [
+            null,
+            null,
+            0,
+            null,
+            null,
+            1,
+            null
+        ]
+    },
+    "weekSettingsArray": [
+        {
+            "week_id": 61,
+            "week_name": "Fit Chicks Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                253,
+                254,
+                255,
+                256
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 62,
+            "week_name": "Fit Chicks Week 2",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                257,
+                258,
+                259,
+                260
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 63,
+            "week_name": "Fit Chicks Week 3",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                261,
+                262,
+                263,
+                264
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 64,
+            "week_name": "Fit Chicks Week 4",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                265,
+                266,
+                267,
+                268
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 65,
+            "week_name": "Fit Chicks Week 5",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                269,
+                270,
+                271,
+                272
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 66,
+            "week_name": "Fit Chicks Week 6",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                273,
+                274,
+                275,
+                276
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 67,
+            "week_name": "Fit Chicks Week 7",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                277,
+                278,
+                279,
+                280
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 68,
+            "week_name": "Fit Chicks Week 8",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                281,
+                282,
+                283,
+                284
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 69,
+            "week_name": "Fit Chicks Week 9",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                285,
+                286,
+                287,
+                288
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 70,
+            "week_name": "Fit Chicks Week 10",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                289,
+                290,
+                291,
+                292
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 71,
+            "week_name": "Fit Chicks Week 11",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                293,
+                294,
+                295,
+                296
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 72,
+            "week_name": "Fit Chicks Week 12",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                297,
+                298,
+                299,
+                300
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                false,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "HIIT cardio (20 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        }
+    ],
+    "planSettings": {
+        "plan_id": 6,
+        "price": 0,
+        "plan_name": "Fit Chicks",
+        "owner": 0,
+        "number_of_weeks": 12,
+        "weeks": [],
+        "description": "<p>This program is designed to cut fat and tone the body. It features:<\/p><ul><li>12 Weeks with periodization<\/li><li>Focus on circuits\/cardio<\/li><li>4 training days per week<\/li><li>1 cardio session per week<\/li><li>Main exercises change every month<\/li><\/ul><p><br><\/p>"
+    },
+    "planSelected": "6",
+    "workoutSettings": {
+        "workout_id": null,
+        "workout_name": "Workout Name",
+        "muscles": [],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 4,
+        "exercises": [],
+        "exercises_sets": [],
+        "exercises_reps": [],
+        "adapter": 0,
+        "adapter_array": []
+    },
+    "workoutSettingsArray": [
+        [
+            {
+                "workout_id": 253,
+                "workout_name": "Fit Chicks Week 1 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    14
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    96,
+                    163,
+                    98
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 254,
+                "workout_name": "Fit Chicks Week 1 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    34
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    155,
+                    119,
+                    124
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 255,
+                "workout_name": "Fit Chicks Week 1 Workout: 3",
+                "muscles": [
+                    6,
+                    9,
+                    1
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    14
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    46,
+                    77,
+                    25
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 256,
+                "workout_name": "Fit Chicks Week 1 Workout: 4",
+                "muscles": [
+                    3,
+                    8,
+                    4
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    23
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    7,
+                    222,
+                    183
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 257,
+                "workout_name": "Fit Chicks Week 2 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    2
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    96,
+                    163,
+                    98
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 258,
+                "workout_name": "Fit Chicks Week 2 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    9
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    155,
+                    119,
+                    124
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 259,
+                "workout_name": "Fit Chicks Week 2 Workout: 3",
+                "muscles": [
+                    6,
+                    9,
+                    1
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    47
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    46,
+                    77,
+                    25
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 260,
+                "workout_name": "Fit Chicks Week 2 Workout: 4",
+                "muscles": [
+                    3,
+                    8,
+                    4
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    23
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    7,
+                    222,
+                    183
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 261,
+                "workout_name": "Fit Chicks Week 3 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    42
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    96,
+                    163,
+                    98
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 262,
+                "workout_name": "Fit Chicks Week 3 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    25
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    155,
+                    119,
+                    124
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 263,
+                "workout_name": "Fit Chicks Week 3 Workout: 3",
+                "muscles": [
+                    6,
+                    9,
+                    1
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    37
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    46,
+                    77,
+                    25
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 264,
+                "workout_name": "Fit Chicks Week 3 Workout: 4",
+                "muscles": [
+                    3,
+                    8,
+                    4
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    52
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    7,
+                    222,
+                    183
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 265,
+                "workout_name": "Fit Chicks Week 4 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    41
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    96,
+                    163,
+                    98
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 266,
+                "workout_name": "Fit Chicks Week 4 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    42
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    155,
+                    119,
+                    124
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 267,
+                "workout_name": "Fit Chicks Week 4 Workout: 3",
+                "muscles": [
+                    6,
+                    9,
+                    1
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    49
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    46,
+                    77,
+                    25
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 268,
+                "workout_name": "Fit Chicks Week 4 Workout: 4",
+                "muscles": [
+                    3,
+                    8,
+                    4
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    33
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    7,
+                    222,
+                    183
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 269,
+                "workout_name": "Fit Chicks Week 5 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    4
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    25,
+                    137,
+                    16
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 270,
+                "workout_name": "Fit Chicks Week 5 Workout: 2",
+                "muscles": [
+                    3,
+                    2,
+                    7
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    45
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    7,
+                    30,
+                    104
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 271,
+                "workout_name": "Fit Chicks Week 5 Workout: 3",
+                "muscles": [
+                    1,
+                    8,
+                    4
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    50
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    19,
+                    17,
+                    183
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 272,
+                "workout_name": "Fit Chicks Week 5 Workout: 4",
+                "muscles": [
+                    3,
+                    9,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    46
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    18,
+                    33,
+                    152
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 273,
+                "workout_name": "Fit Chicks Week 6 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    13
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    25,
+                    137,
+                    16
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 274,
+                "workout_name": "Fit Chicks Week 6 Workout: 2",
+                "muscles": [
+                    3,
+                    2,
+                    7
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    2
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    7,
+                    30,
+                    104
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 275,
+                "workout_name": "Fit Chicks Week 6 Workout: 3",
+                "muscles": [
+                    1,
+                    8,
+                    4
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    14
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    19,
+                    17,
+                    183
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 276,
+                "workout_name": "Fit Chicks Week 6 Workout: 4",
+                "muscles": [
+                    3,
+                    9,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    43
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    18,
+                    33,
+                    152
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 277,
+                "workout_name": "Fit Chicks Week 7 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    14
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    25,
+                    137,
+                    16
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 278,
+                "workout_name": "Fit Chicks Week 7 Workout: 2",
+                "muscles": [
+                    3,
+                    2,
+                    7
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    28
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    7,
+                    30,
+                    104
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 279,
+                "workout_name": "Fit Chicks Week 7 Workout: 3",
+                "muscles": [
+                    1,
+                    8,
+                    4
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    7
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    19,
+                    17,
+                    183
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 280,
+                "workout_name": "Fit Chicks Week 7 Workout: 4",
+                "muscles": [
+                    3,
+                    9,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    29
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    18,
+                    33,
+                    152
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 281,
+                "workout_name": "Fit Chicks Week 8 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    24
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    25,
+                    137,
+                    16
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 282,
+                "workout_name": "Fit Chicks Week 8 Workout: 2",
+                "muscles": [
+                    3,
+                    2,
+                    7
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    37
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    7,
+                    30,
+                    104
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 283,
+                "workout_name": "Fit Chicks Week 8 Workout: 3",
+                "muscles": [
+                    1,
+                    8,
+                    4
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    28
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    19,
+                    17,
+                    183
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 284,
+                "workout_name": "Fit Chicks Week 8 Workout: 4",
+                "muscles": [
+                    3,
+                    9,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    53
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    18,
+                    33,
+                    152
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 285,
+                "workout_name": "Fit Chicks Week 9 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    46
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    19,
+                    13,
+                    16
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 286,
+                "workout_name": "Fit Chicks Week 9 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    32
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    12,
+                    26,
+                    30
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 287,
+                "workout_name": "Fit Chicks Week 9 Workout: 3",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    43
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    167,
+                    137,
+                    65
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 288,
+                "workout_name": "Fit Chicks Week 9 Workout: 4",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    12
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    179,
+                    29,
+                    108
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 289,
+                "workout_name": "Fit Chicks Week 10 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    2
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    19,
+                    13,
+                    16
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 290,
+                "workout_name": "Fit Chicks Week 10 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    51
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    12,
+                    26,
+                    30
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 291,
+                "workout_name": "Fit Chicks Week 10 Workout: 3",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    20
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    167,
+                    137,
+                    65
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 292,
+                "workout_name": "Fit Chicks Week 10 Workout: 4",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    48
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    179,
+                    29,
+                    108
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 293,
+                "workout_name": "Fit Chicks Week 11 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    28
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    19,
+                    13,
+                    16
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 294,
+                "workout_name": "Fit Chicks Week 11 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    52
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    12,
+                    26,
+                    30
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 295,
+                "workout_name": "Fit Chicks Week 11 Workout: 3",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    51
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    167,
+                    137,
+                    65
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 296,
+                "workout_name": "Fit Chicks Week 11 Workout: 4",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    37
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    179,
+                    29,
+                    108
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 297,
+                "workout_name": "Fit Chicks Week 12 Workout: 1",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    52
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    19,
+                    13,
+                    16
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 298,
+                "workout_name": "Fit Chicks Week 12 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    1
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    12,
+                    26,
+                    30
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 299,
+                "workout_name": "Fit Chicks Week 12 Workout: 3",
+                "muscles": [
+                    1,
+                    5,
+                    6
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    47
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    167,
+                    137,
+                    65
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 300,
+                "workout_name": "Fit Chicks Week 12 Workout: 4",
+                "muscles": [
+                    3,
+                    7,
+                    2
+                ],
+                "number_of_circuits": 1,
+                "circuits": [
+                    25
+                ],
+                "circuit_sets": [
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "circuit_reps": [
+                    "30 sec",
+                    "30 sec",
+                    "30 sec",
+                    "30 sec"
+                ],
+                "number_of_exercises": 3,
+                "exercises": [
+                    179,
+                    29,
+                    108
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    10,
+                    10
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ]
+    ]
+}

@@ -1,0 +1,3427 @@
+{
+    "weekSettings": {
+        "week_id": null,
+        "week_name": "Example Week",
+        "number_of_days": 7,
+        "number_of_workouts": 5,
+        "workouts": [],
+        "workouts_indexs": [
+            0,
+            1,
+            null,
+            2,
+            4,
+            5,
+            null,
+            null
+        ],
+        "number_of_cardio": 2,
+        "cardio": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "cardio_indexs": [
+            null,
+            null,
+            0,
+            null,
+            null,
+            1,
+            null
+        ]
+    },
+    "weekSettingsArray": [
+        {
+            "week_id": 49,
+            "week_name": "Bulk Yoked AF Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                205,
+                206,
+                207,
+                208
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 50,
+            "week_name": "Bulk Yoked AF Week 2",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                209,
+                210,
+                211,
+                212
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 51,
+            "week_name": "Bulk Yoked AF Week 3",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                213,
+                214,
+                215,
+                216
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 52,
+            "week_name": "Bulk Yoked AF Week 4",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                217,
+                218,
+                219,
+                220
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 53,
+            "week_name": "Bulk Yoked AF Week 5",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                221,
+                222,
+                223,
+                224
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 54,
+            "week_name": "Bulk Yoked AF Week 6",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                225,
+                226,
+                227,
+                228
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 55,
+            "week_name": "Bulk Yoked AF Week 7",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                229,
+                230,
+                231,
+                232
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 56,
+            "week_name": "Bulk Yoked AF Week 8",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                233,
+                234,
+                235,
+                236
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 57,
+            "week_name": "Bulk Yoked AF Week 9",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                237,
+                238,
+                239,
+                240
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 58,
+            "week_name": "Bulk Yoked AF Week 10",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                241,
+                242,
+                243,
+                244
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 59,
+            "week_name": "Bulk Yoked AF Week 11",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                245,
+                246,
+                247,
+                248
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 60,
+            "week_name": "Bulk Yoked AF Week 12",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                249,
+                250,
+                251,
+                252
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    ],
+    "planSettings": {
+        "plan_id": 5,
+        "price": 0,
+        "plan_name": "Bulk Yoked AF",
+        "owner": 0,
+        "number_of_weeks": 12,
+        "weeks": [],
+        "description": "<p>This program is designed to train primarily the shoulders, chest and back. It features:<\/p><ul><li>12 Weeks with periodization<\/li><li>Focus on the shoulders, chest and back<\/li><li>4 training days per week<\/li><li>2 cardio sessions per week<\/li><li>Main exercises change every month<\/li><\/ul><p><br><\/p>"
+    },
+    "planSelected": "5",
+    "workoutSettings": {
+        "workout_id": null,
+        "workout_name": "Workout Name",
+        "muscles": [],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 4,
+        "exercises": [],
+        "exercises_sets": [],
+        "exercises_reps": [],
+        "adapter": 0,
+        "adapter_array": []
+    },
+    "workoutSettingsArray": [
+        [
+            {
+                "workout_id": 205,
+                "workout_name": "Bulk Yoked AF Week 1 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    119,
+                    55,
+                    46,
+                    99,
+                    131,
+                    3
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 206,
+                "workout_name": "Bulk Yoked AF Week 1 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    217,
+                    120,
+                    14,
+                    137,
+                    76,
+                    62,
+                    265
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 207,
+                "workout_name": "Bulk Yoked AF Week 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    1,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    250,
+                    152,
+                    8,
+                    96,
+                    274,
+                    81,
+                    256
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 208,
+                "workout_name": "Bulk Yoked AF Week 1 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    120,
+                    111,
+                    110,
+                    214,
+                    99,
+                    139,
+                    272
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 209,
+                "workout_name": "Bulk Yoked AF Week 2 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    119,
+                    55,
+                    46,
+                    99,
+                    131,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 210,
+                "workout_name": "Bulk Yoked AF Week 2 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    217,
+                    120,
+                    14,
+                    137,
+                    76,
+                    62,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 211,
+                "workout_name": "Bulk Yoked AF Week 2 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    1,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    250,
+                    152,
+                    8,
+                    96,
+                    274,
+                    81,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 212,
+                "workout_name": "Bulk Yoked AF Week 2 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    120,
+                    111,
+                    110,
+                    214,
+                    99,
+                    139,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 213,
+                "workout_name": "Bulk Yoked AF Week 3 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    119,
+                    55,
+                    46,
+                    99,
+                    131,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 214,
+                "workout_name": "Bulk Yoked AF Week 3 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    217,
+                    120,
+                    14,
+                    137,
+                    76,
+                    62,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 215,
+                "workout_name": "Bulk Yoked AF Week 3 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    1,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    250,
+                    152,
+                    8,
+                    96,
+                    274,
+                    81,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 216,
+                "workout_name": "Bulk Yoked AF Week 3 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    120,
+                    111,
+                    110,
+                    214,
+                    99,
+                    139,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 217,
+                "workout_name": "Bulk Yoked AF Week 4 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    119,
+                    55,
+                    46,
+                    99,
+                    131,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 218,
+                "workout_name": "Bulk Yoked AF Week 4 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    217,
+                    120,
+                    14,
+                    137,
+                    76,
+                    62,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 219,
+                "workout_name": "Bulk Yoked AF Week 4 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    1,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    250,
+                    152,
+                    8,
+                    96,
+                    274,
+                    81,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 220,
+                "workout_name": "Bulk Yoked AF Week 4 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    120,
+                    111,
+                    110,
+                    214,
+                    99,
+                    139,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 221,
+                "workout_name": "Bulk Yoked AF Week 5 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    116,
+                    56,
+                    55,
+                    65,
+                    54,
+                    59,
+                    204
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 222,
+                "workout_name": "Bulk Yoked AF Week 5 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    27,
+                    126,
+                    46,
+                    10,
+                    140,
+                    115,
+                    146
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 223,
+                "workout_name": "Bulk Yoked AF Week 5 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    148,
+                    108,
+                    125,
+                    197,
+                    60,
+                    276,
+                    3
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 224,
+                "workout_name": "Bulk Yoked AF Week 5 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    94,
+                    100,
+                    113,
+                    122,
+                    97,
+                    87,
+                    40
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 225,
+                "workout_name": "Bulk Yoked AF Week 6 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    116,
+                    56,
+                    55,
+                    65,
+                    54,
+                    59,
+                    204
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 226,
+                "workout_name": "Bulk Yoked AF Week 6 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    27,
+                    126,
+                    46,
+                    10,
+                    140,
+                    115,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 227,
+                "workout_name": "Bulk Yoked AF Week 6 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    148,
+                    108,
+                    125,
+                    197,
+                    60,
+                    276,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 228,
+                "workout_name": "Bulk Yoked AF Week 6 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    94,
+                    100,
+                    113,
+                    122,
+                    97,
+                    87,
+                    40
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 229,
+                "workout_name": "Bulk Yoked AF Week 7 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    116,
+                    56,
+                    55,
+                    65,
+                    54,
+                    59,
+                    204
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 230,
+                "workout_name": "Bulk Yoked AF Week 7 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    27,
+                    126,
+                    46,
+                    10,
+                    140,
+                    115,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 231,
+                "workout_name": "Bulk Yoked AF Week 7 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    148,
+                    108,
+                    125,
+                    197,
+                    60,
+                    276,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 232,
+                "workout_name": "Bulk Yoked AF Week 7 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    94,
+                    100,
+                    113,
+                    122,
+                    97,
+                    87,
+                    40
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 233,
+                "workout_name": "Bulk Yoked AF Week 8 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    116,
+                    56,
+                    55,
+                    65,
+                    54,
+                    59,
+                    204
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 234,
+                "workout_name": "Bulk Yoked AF Week 8 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    27,
+                    126,
+                    46,
+                    10,
+                    140,
+                    115,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 235,
+                "workout_name": "Bulk Yoked AF Week 8 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    148,
+                    108,
+                    125,
+                    197,
+                    60,
+                    276,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 236,
+                "workout_name": "Bulk Yoked AF Week 8 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    94,
+                    100,
+                    113,
+                    122,
+                    97,
+                    87,
+                    40
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 237,
+                "workout_name": "Bulk Yoked AF Week 9 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    56,
+                    137,
+                    15,
+                    99,
+                    51,
+                    162
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 238,
+                "workout_name": "Bulk Yoked AF Week 9 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    176,
+                    227,
+                    98,
+                    101,
+                    140,
+                    78,
+                    272
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 239,
+                "workout_name": "Bulk Yoked AF Week 9 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    1,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    12,
+                    23,
+                    253,
+                    175,
+                    96,
+                    183,
+                    154
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 240,
+                "workout_name": "Bulk Yoked AF Week 9 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    234,
+                    249,
+                    237,
+                    245,
+                    222,
+                    254,
+                    53
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 241,
+                "workout_name": "Bulk Yoked AF Week 10 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    56,
+                    137,
+                    15,
+                    99,
+                    51,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 242,
+                "workout_name": "Bulk Yoked AF Week 10 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    176,
+                    227,
+                    98,
+                    101,
+                    140,
+                    78,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 243,
+                "workout_name": "Bulk Yoked AF Week 10 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    1,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    12,
+                    23,
+                    253,
+                    175,
+                    96,
+                    183,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 244,
+                "workout_name": "Bulk Yoked AF Week 10 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    234,
+                    249,
+                    237,
+                    245,
+                    222,
+                    254,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 245,
+                "workout_name": "Bulk Yoked AF Week 11 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    56,
+                    137,
+                    15,
+                    99,
+                    51,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 246,
+                "workout_name": "Bulk Yoked AF Week 11 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    176,
+                    227,
+                    98,
+                    101,
+                    140,
+                    78,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 247,
+                "workout_name": "Bulk Yoked AF Week 11 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    1,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    12,
+                    23,
+                    253,
+                    175,
+                    96,
+                    183,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 248,
+                "workout_name": "Bulk Yoked AF Week 11 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    234,
+                    249,
+                    237,
+                    245,
+                    222,
+                    254,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 249,
+                "workout_name": "Bulk Yoked AF Week 12 Workout: 1",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    56,
+                    137,
+                    15,
+                    99,
+                    51,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 250,
+                "workout_name": "Bulk Yoked AF Week 12 Workout: 2",
+                "muscles": [
+                    6,
+                    7,
+                    6,
+                    5,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    176,
+                    227,
+                    98,
+                    101,
+                    140,
+                    78,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 251,
+                "workout_name": "Bulk Yoked AF Week 12 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    1,
+                    1,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    12,
+                    23,
+                    253,
+                    175,
+                    96,
+                    183,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 252,
+                "workout_name": "Bulk Yoked AF Week 12 Workout: 4",
+                "muscles": [
+                    7,
+                    5,
+                    7,
+                    6,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    234,
+                    249,
+                    237,
+                    245,
+                    222,
+                    254,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ]
+    ]
+}

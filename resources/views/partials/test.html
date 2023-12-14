@@ -1,0 +1,168 @@
+<html>
+<head>
+    <title> The simplest HTML example
+    </title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.3.0/dist/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.1/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-moment@1.0.0/dist/chartjs-adapter-moment.min.js"></script>
+
+</head>
+<body>
+<div  class="">
+    <canvas height="300px" id="myChart"></canvas>
+</div>
+</body>
+<script>
+    var ctx = document.getElementById('myChart').getContext('2d');
+    ctx.height = 300;
+    var myChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: [
+                'BB front squat'
+            ],
+            datasets: [{
+                label: 'One Rep Max Estimate',
+                data: [
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '32.008535609496',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '176.72858617131',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '175.43859649123',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '175.43859649123',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '176.72858617131',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '112.26944667201',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '112.26944667201',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '75.29763130793',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '70.278712157617',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '62.435633367662',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '57.664584334455',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '61.791967044284',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '32.008535609496',
+                    },
+                    {
+                        x: new moment('2021-05-28T00:00:00+0000'),
+                        y: '72.090628218332',
+                    },
+                    {
+                        x: new moment('2021-05-29T00:00:00+0000'),
+                        y: '39.292730844794',
+                    },
+                    {
+                        x: new moment('2021-05-29T00:00:00+0000'),
+                        y: '39.292730844794',
+                    },
+                    {
+                        x: new moment('2021-05-29T00:00:00+0000'),
+                        y: '39.292730844794',
+                    },
+                    {
+                        x: new moment('2021-05-29T00:00:00+0000'),
+                        y: '39.292730844794',
+                    },
+                    {
+                        x: new moment('2021-06-01T00:00:00+0000'),
+                        y: '66.983578219533',
+                    },
+                    {
+                        x: new moment('2021-06-01T00:00:00+0000'),
+                        y: '66.983578219533',
+                    },
+                    {
+                        x: new moment('2021-06-01T00:00:00+0000'),
+                        y: '66.983578219533',
+                    },
+                    {
+                        x: new moment('2021-06-01T00:00:00+0000'),
+                        y: '66.983578219533',
+                    },
+                    {
+                        x: new moment('2021-06-03T00:00:00+0000'),
+                        y: '39.292730844794',
+                    },
+                    {
+                        x: new moment('2021-06-03T00:00:00+0000'),
+                        y: '39.292730844794',
+                    },
+                    {
+                        x: new moment('2021-06-03T00:00:00+0000'),
+                        y: '104.78061558612',
+                    },
+                    {
+                        x: new moment('2021-06-03T00:00:00+0000'),
+                        y: '104.78061558612',
+                    },
+                ],
+                borderWidth: 1
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            scales: {
+                y: {
+                    min: 1,
+
+                },
+                x: {
+                    min: new moment('28/05/2021'),
+                    type: 'time',
+                    time: {
+                        unit:"day",
+                    },
+                }
+            },
+            plugins: {
+                legend: {
+                    position: 'top',
+                },
+                title: {
+                    display: true,
+                    text: 'Estimated One Rep Max'
+                },
+                tooltop: {
+                    enabled: true,
+                }
+
+            }
+        }
+    });
+</script>
+
+</html>

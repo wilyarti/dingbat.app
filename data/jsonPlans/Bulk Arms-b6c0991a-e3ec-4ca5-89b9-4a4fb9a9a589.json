@@ -1,0 +1,3427 @@
+{
+    "weekSettings": {
+        "week_id": null,
+        "week_name": "Example Week",
+        "number_of_days": 7,
+        "number_of_workouts": 5,
+        "workouts": [],
+        "workouts_indexs": [
+            0,
+            1,
+            null,
+            2,
+            4,
+            5,
+            null,
+            null
+        ],
+        "number_of_cardio": 2,
+        "cardio": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "cardio_indexs": [
+            null,
+            null,
+            0,
+            null,
+            null,
+            1,
+            null
+        ]
+    },
+    "weekSettingsArray": [
+        {
+            "week_id": 1,
+            "week_name": "Bulk Arms Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 2,
+            "week_name": "Bulk Arms Week 2",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                5,
+                6,
+                7,
+                8
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 3,
+            "week_name": "Bulk Arms Week 3",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                9,
+                10,
+                11,
+                12
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 4,
+            "week_name": "Bulk Arms Week 4",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                13,
+                14,
+                15,
+                16
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 5,
+            "week_name": "Bulk Arms Week 5",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                17,
+                18,
+                19,
+                20
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 6,
+            "week_name": "Bulk Arms Week 6",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                21,
+                22,
+                23,
+                24
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 7,
+            "week_name": "Bulk Arms Week 7",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                25,
+                26,
+                27,
+                28
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 8,
+            "week_name": "Bulk Arms Week 8",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                29,
+                30,
+                31,
+                32
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 9,
+            "week_name": "Bulk Arms Week 9",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                33,
+                34,
+                35,
+                36
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 10,
+            "week_name": "Bulk Arms Week 10",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                37,
+                38,
+                39,
+                40
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 11,
+            "week_name": "Bulk Arms Week 11",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                41,
+                42,
+                43,
+                44
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 12,
+            "week_name": "Bulk Arms Week 12",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                45,
+                46,
+                47,
+                48
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    ],
+    "planSettings": {
+        "plan_id": 1,
+        "price": 0,
+        "plan_name": "Bulk Arms",
+        "owner": 0,
+        "number_of_weeks": 12,
+        "weeks": [],
+        "description": "<p>This program is designed to train primarily the arms. It features:<\/p><ul><li>12 Weeks with periodization<\/li><li>Focus on arms development<\/li><li>4 training days per week<\/li><li>2 cardio sessions per week<\/li><li>Main exercises change every month<\/li><\/ul>"
+    },
+    "planSelected": "1",
+    "workoutSettings": {
+        "workout_id": null,
+        "workout_name": "Workout Name",
+        "muscles": [],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 4,
+        "exercises": [],
+        "exercises_sets": [],
+        "exercises_reps": [],
+        "adapter": 0,
+        "adapter_array": []
+    },
+    "workoutSettingsArray": [
+        [
+            {
+                "workout_id": 1,
+                "workout_name": "Bulk Arms Week 1 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    13,
+                    176,
+                    76,
+                    78,
+                    33,
+                    3
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 2,
+                "workout_name": "Bulk Arms Week 1 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    257,
+                    26,
+                    119,
+                    99,
+                    131,
+                    115,
+                    265
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 3,
+                "workout_name": "Bulk Arms Week 1 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    116,
+                    72,
+                    101,
+                    59,
+                    102,
+                    302,
+                    256
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 4,
+                "workout_name": "Bulk Arms Week 1 Workout: 4",
+                "muscles": [
+                    1,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    56,
+                    120,
+                    54,
+                    63,
+                    62,
+                    272
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 5,
+                "workout_name": "Bulk Arms Week 2 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    13,
+                    176,
+                    76,
+                    78,
+                    33,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 6,
+                "workout_name": "Bulk Arms Week 2 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    257,
+                    26,
+                    119,
+                    99,
+                    131,
+                    115,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 7,
+                "workout_name": "Bulk Arms Week 2 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    116,
+                    72,
+                    101,
+                    59,
+                    102,
+                    302,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 8,
+                "workout_name": "Bulk Arms Week 2 Workout: 4",
+                "muscles": [
+                    1,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    56,
+                    120,
+                    54,
+                    63,
+                    62,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 9,
+                "workout_name": "Bulk Arms Week 3 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    13,
+                    176,
+                    76,
+                    78,
+                    33,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 10,
+                "workout_name": "Bulk Arms Week 3 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    257,
+                    26,
+                    119,
+                    99,
+                    131,
+                    115,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 11,
+                "workout_name": "Bulk Arms Week 3 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    116,
+                    72,
+                    101,
+                    59,
+                    102,
+                    302,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 12,
+                "workout_name": "Bulk Arms Week 3 Workout: 4",
+                "muscles": [
+                    1,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    56,
+                    120,
+                    54,
+                    63,
+                    62,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 13,
+                "workout_name": "Bulk Arms Week 4 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    13,
+                    176,
+                    76,
+                    78,
+                    33,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 14,
+                "workout_name": "Bulk Arms Week 4 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    257,
+                    26,
+                    119,
+                    99,
+                    131,
+                    115,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 15,
+                "workout_name": "Bulk Arms Week 4 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    116,
+                    72,
+                    101,
+                    59,
+                    102,
+                    302,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 16,
+                "workout_name": "Bulk Arms Week 4 Workout: 4",
+                "muscles": [
+                    1,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    56,
+                    120,
+                    54,
+                    63,
+                    62,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 17,
+                "workout_name": "Bulk Arms Week 5 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    214,
+                    55,
+                    122,
+                    117,
+                    97,
+                    140,
+                    204
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 18,
+                "workout_name": "Bulk Arms Week 5 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    155,
+                    26,
+                    119,
+                    115,
+                    33,
+                    17,
+                    146
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 19,
+                "workout_name": "Bulk Arms Week 5 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    137,
+                    129,
+                    128,
+                    139,
+                    99,
+                    29,
+                    3
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 20,
+                "workout_name": "Bulk Arms Week 5 Workout: 4",
+                "muscles": [
+                    2,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    30,
+                    127,
+                    56,
+                    57,
+                    77,
+                    78,
+                    40
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 21,
+                "workout_name": "Bulk Arms Week 6 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    214,
+                    55,
+                    122,
+                    117,
+                    97,
+                    140,
+                    204
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 22,
+                "workout_name": "Bulk Arms Week 6 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    155,
+                    26,
+                    119,
+                    115,
+                    33,
+                    17,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 23,
+                "workout_name": "Bulk Arms Week 6 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    137,
+                    129,
+                    128,
+                    139,
+                    99,
+                    29,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 24,
+                "workout_name": "Bulk Arms Week 6 Workout: 4",
+                "muscles": [
+                    2,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    30,
+                    127,
+                    56,
+                    57,
+                    77,
+                    78,
+                    40
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 25,
+                "workout_name": "Bulk Arms Week 7 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    214,
+                    55,
+                    122,
+                    117,
+                    97,
+                    140,
+                    204
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 26,
+                "workout_name": "Bulk Arms Week 7 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    155,
+                    26,
+                    119,
+                    115,
+                    33,
+                    17,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 27,
+                "workout_name": "Bulk Arms Week 7 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    137,
+                    129,
+                    128,
+                    139,
+                    99,
+                    29,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 28,
+                "workout_name": "Bulk Arms Week 7 Workout: 4",
+                "muscles": [
+                    2,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    30,
+                    127,
+                    56,
+                    57,
+                    77,
+                    78,
+                    40
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 29,
+                "workout_name": "Bulk Arms Week 8 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    214,
+                    55,
+                    122,
+                    117,
+                    97,
+                    140,
+                    204
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 30,
+                "workout_name": "Bulk Arms Week 8 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    155,
+                    26,
+                    119,
+                    115,
+                    33,
+                    17,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 31,
+                "workout_name": "Bulk Arms Week 8 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    137,
+                    129,
+                    128,
+                    139,
+                    99,
+                    29,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 32,
+                "workout_name": "Bulk Arms Week 8 Workout: 4",
+                "muscles": [
+                    2,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    30,
+                    127,
+                    56,
+                    57,
+                    77,
+                    78,
+                    40
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 33,
+                "workout_name": "Bulk Arms Week 9 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    27,
+                    10,
+                    89,
+                    51,
+                    102,
+                    87,
+                    162
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 34,
+                "workout_name": "Bulk Arms Week 9 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    12,
+                    94,
+                    126,
+                    17,
+                    33,
+                    109,
+                    272
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 35,
+                "workout_name": "Bulk Arms Week 9 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    90,
+                    176,
+                    100,
+                    140,
+                    99,
+                    119,
+                    154
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 36,
+                "workout_name": "Bulk Arms Week 9 Workout: 4",
+                "muscles": [
+                    1,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    167,
+                    248,
+                    234,
+                    222,
+                    240,
+                    232,
+                    53
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 37,
+                "workout_name": "Bulk Arms Week 10 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    27,
+                    10,
+                    89,
+                    51,
+                    102,
+                    87,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 38,
+                "workout_name": "Bulk Arms Week 10 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    12,
+                    94,
+                    126,
+                    17,
+                    33,
+                    109,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 39,
+                "workout_name": "Bulk Arms Week 10 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    90,
+                    176,
+                    100,
+                    140,
+                    99,
+                    119,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 40,
+                "workout_name": "Bulk Arms Week 10 Workout: 4",
+                "muscles": [
+                    1,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    167,
+                    248,
+                    234,
+                    222,
+                    240,
+                    232,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 41,
+                "workout_name": "Bulk Arms Week 11 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    27,
+                    10,
+                    89,
+                    51,
+                    102,
+                    87,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 42,
+                "workout_name": "Bulk Arms Week 11 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    12,
+                    94,
+                    126,
+                    17,
+                    33,
+                    109,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 43,
+                "workout_name": "Bulk Arms Week 11 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    90,
+                    176,
+                    100,
+                    140,
+                    99,
+                    119,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 44,
+                "workout_name": "Bulk Arms Week 11 Workout: 4",
+                "muscles": [
+                    1,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    167,
+                    248,
+                    234,
+                    222,
+                    240,
+                    232,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 45,
+                "workout_name": "Bulk Arms Week 12 Workout: 1",
+                "muscles": [
+                    6,
+                    5,
+                    6,
+                    9,
+                    8,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    27,
+                    10,
+                    89,
+                    51,
+                    102,
+                    87,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 46,
+                "workout_name": "Bulk Arms Week 12 Workout: 2",
+                "muscles": [
+                    3,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    12,
+                    94,
+                    126,
+                    17,
+                    33,
+                    109,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 47,
+                "workout_name": "Bulk Arms Week 12 Workout: 3",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    9,
+                    8,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    90,
+                    176,
+                    100,
+                    140,
+                    99,
+                    119,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 48,
+                "workout_name": "Bulk Arms Week 12 Workout: 4",
+                "muscles": [
+                    1,
+                    7,
+                    7,
+                    8,
+                    9,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    167,
+                    248,
+                    234,
+                    222,
+                    240,
+                    232,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ]
+    ]
+}

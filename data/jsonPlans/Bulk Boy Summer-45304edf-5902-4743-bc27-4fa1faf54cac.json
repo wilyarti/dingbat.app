@@ -1,0 +1,4051 @@
+{
+    "weekSettings": {
+        "week_id": null,
+        "week_name": "Example Week",
+        "number_of_days": 7,
+        "number_of_workouts": 5,
+        "workouts": [],
+        "workouts_indexs": [
+            0,
+            1,
+            null,
+            2,
+            4,
+            5,
+            null,
+            null
+        ],
+        "number_of_cardio": 2,
+        "cardio": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "cardio_indexs": [
+            null,
+            null,
+            0,
+            null,
+            null,
+            1,
+            null
+        ]
+    },
+    "weekSettingsArray": [
+        {
+            "week_id": 25,
+            "week_name": "Bulk Boy Summer Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                97,
+                98,
+                99,
+                100,
+                101
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 26,
+            "week_name": "Bulk Boy Summer Week 2",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                102,
+                103,
+                104,
+                105,
+                106
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 27,
+            "week_name": "Bulk Boy Summer Week 3",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                107,
+                108,
+                109,
+                110,
+                111
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 28,
+            "week_name": "Bulk Boy Summer Week 4",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                112,
+                113,
+                114,
+                115,
+                116
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 29,
+            "week_name": "Bulk Boy Summer Week 5",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                117,
+                118,
+                119,
+                120,
+                121
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 30,
+            "week_name": "Bulk Boy Summer Week 6",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                122,
+                123,
+                124,
+                125,
+                126
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 31,
+            "week_name": "Bulk Boy Summer Week 7",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                127,
+                128,
+                129,
+                130,
+                131
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 32,
+            "week_name": "Bulk Boy Summer Week 8",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                132,
+                133,
+                134,
+                135,
+                136
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 33,
+            "week_name": "Bulk Boy Summer Week 9",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                137,
+                138,
+                139,
+                140,
+                141
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 34,
+            "week_name": "Bulk Boy Summer Week 10",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                142,
+                143,
+                144,
+                145,
+                146
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 35,
+            "week_name": "Bulk Boy Summer Week 11",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                147,
+                148,
+                149,
+                150,
+                151
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 36,
+            "week_name": "Bulk Boy Summer Week 12",
+            "number_of_days": 7,
+            "number_of_workouts": 5,
+            "workouts": [
+                152,
+                153,
+                154,
+                155,
+                156
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                true,
+                false
+            ],
+            "number_of_cardio": 1,
+            "cardio": [
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                false,
+                false
+            ]
+        }
+    ],
+    "planSettings": {
+        "plan_id": 3,
+        "price": 0,
+        "plan_name": "Bulk Boy Summer",
+        "owner": 0,
+        "number_of_weeks": 12,
+        "weeks": [],
+        "description": "<p>This program is an advanced full body program. It features:<\/p><ul><li>12 Weeks with periodization<\/li><li>Full body workouts multiple times per week<\/li><li>5 training days per week<\/li><li>1 cardio session per week<\/li><li>Main exercises change every month<\/li><\/ul><p><br><\/p>"
+    },
+    "planSelected": "3",
+    "workoutSettings": {
+        "workout_id": null,
+        "workout_name": "Workout Name",
+        "muscles": [],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 4,
+        "exercises": [],
+        "exercises_sets": [],
+        "exercises_reps": [],
+        "adapter": 0,
+        "adapter_array": []
+    },
+    "workoutSettingsArray": [
+        [
+            {
+                "workout_id": 97,
+                "workout_name": "Bulk Boy Summer Week 1 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    15,
+                    137,
+                    31,
+                    4,
+                    81,
+                    3
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 98,
+                "workout_name": "Bulk Boy Summer Week 1 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    173,
+                    175,
+                    295,
+                    101,
+                    99,
+                    265
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 99,
+                "workout_name": "Bulk Boy Summer Week 1 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    116,
+                    120,
+                    148,
+                    108,
+                    276,
+                    256
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 100,
+                "workout_name": "Bulk Boy Summer Week 1 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    2,
+                    177,
+                    91,
+                    105,
+                    51,
+                    272
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 101,
+                "workout_name": "Bulk Boy Summer Week 1 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    26,
+                    14,
+                    119,
+                    25,
+                    158,
+                    114,
+                    272
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 102,
+                "workout_name": "Bulk Boy Summer Week 2 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    15,
+                    137,
+                    31,
+                    4,
+                    81,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 103,
+                "workout_name": "Bulk Boy Summer Week 2 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    173,
+                    175,
+                    295,
+                    101,
+                    99,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 104,
+                "workout_name": "Bulk Boy Summer Week 2 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    116,
+                    120,
+                    148,
+                    108,
+                    276,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 105,
+                "workout_name": "Bulk Boy Summer Week 2 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    2,
+                    177,
+                    91,
+                    105,
+                    51,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 106,
+                "workout_name": "Bulk Boy Summer Week 2 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    26,
+                    14,
+                    119,
+                    25,
+                    158,
+                    114,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 107,
+                "workout_name": "Bulk Boy Summer Week 3 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    15,
+                    137,
+                    31,
+                    4,
+                    81,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 108,
+                "workout_name": "Bulk Boy Summer Week 3 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    173,
+                    175,
+                    295,
+                    101,
+                    99,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 109,
+                "workout_name": "Bulk Boy Summer Week 3 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    116,
+                    120,
+                    148,
+                    108,
+                    276,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 110,
+                "workout_name": "Bulk Boy Summer Week 3 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    2,
+                    177,
+                    91,
+                    105,
+                    51,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 111,
+                "workout_name": "Bulk Boy Summer Week 3 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    26,
+                    14,
+                    119,
+                    25,
+                    158,
+                    114,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 112,
+                "workout_name": "Bulk Boy Summer Week 4 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    15,
+                    137,
+                    31,
+                    4,
+                    81,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 113,
+                "workout_name": "Bulk Boy Summer Week 4 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    173,
+                    175,
+                    295,
+                    101,
+                    99,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 114,
+                "workout_name": "Bulk Boy Summer Week 4 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    116,
+                    120,
+                    148,
+                    108,
+                    276,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 115,
+                "workout_name": "Bulk Boy Summer Week 4 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    2,
+                    177,
+                    91,
+                    105,
+                    51,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 116,
+                "workout_name": "Bulk Boy Summer Week 4 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    26,
+                    14,
+                    119,
+                    25,
+                    158,
+                    114,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 117,
+                "workout_name": "Bulk Boy Summer Week 5 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    101,
+                    105,
+                    111,
+                    144,
+                    257,
+                    276,
+                    154
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 118,
+                "workout_name": "Bulk Boy Summer Week 5 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    35,
+                    148,
+                    9,
+                    46,
+                    67,
+                    54,
+                    37
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 119,
+                "workout_name": "Bulk Boy Summer Week 5 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    89,
+                    137,
+                    132,
+                    264,
+                    219,
+                    276,
+                    53
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 120,
+                "workout_name": "Bulk Boy Summer Week 5 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    96,
+                    28,
+                    111,
+                    75,
+                    63,
+                    146
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 121,
+                "workout_name": "Bulk Boy Summer Week 5 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    29,
+                    16,
+                    110,
+                    2,
+                    93,
+                    152,
+                    143
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 122,
+                "workout_name": "Bulk Boy Summer Week 6 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    101,
+                    105,
+                    111,
+                    144,
+                    257,
+                    276,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 123,
+                "workout_name": "Bulk Boy Summer Week 6 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    35,
+                    148,
+                    9,
+                    46,
+                    67,
+                    54,
+                    37
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 124,
+                "workout_name": "Bulk Boy Summer Week 6 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    89,
+                    137,
+                    132,
+                    264,
+                    219,
+                    276,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 125,
+                "workout_name": "Bulk Boy Summer Week 6 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    96,
+                    28,
+                    111,
+                    75,
+                    63,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 126,
+                "workout_name": "Bulk Boy Summer Week 6 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    29,
+                    16,
+                    110,
+                    2,
+                    93,
+                    152,
+                    143
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 127,
+                "workout_name": "Bulk Boy Summer Week 7 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    101,
+                    105,
+                    111,
+                    144,
+                    257,
+                    276,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 128,
+                "workout_name": "Bulk Boy Summer Week 7 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    35,
+                    148,
+                    9,
+                    46,
+                    67,
+                    54,
+                    37
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 129,
+                "workout_name": "Bulk Boy Summer Week 7 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    89,
+                    137,
+                    132,
+                    264,
+                    219,
+                    276,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 130,
+                "workout_name": "Bulk Boy Summer Week 7 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    96,
+                    28,
+                    111,
+                    75,
+                    63,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 131,
+                "workout_name": "Bulk Boy Summer Week 7 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    29,
+                    16,
+                    110,
+                    2,
+                    93,
+                    152,
+                    143
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 132,
+                "workout_name": "Bulk Boy Summer Week 8 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    101,
+                    105,
+                    111,
+                    144,
+                    257,
+                    276,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 133,
+                "workout_name": "Bulk Boy Summer Week 8 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    35,
+                    148,
+                    9,
+                    46,
+                    67,
+                    54,
+                    37
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 134,
+                "workout_name": "Bulk Boy Summer Week 8 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    89,
+                    137,
+                    132,
+                    264,
+                    219,
+                    276,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 135,
+                "workout_name": "Bulk Boy Summer Week 8 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    96,
+                    28,
+                    111,
+                    75,
+                    63,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 136,
+                "workout_name": "Bulk Boy Summer Week 8 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    29,
+                    16,
+                    110,
+                    2,
+                    93,
+                    152,
+                    143
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 137,
+                "workout_name": "Bulk Boy Summer Week 9 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    176,
+                    116,
+                    202,
+                    158,
+                    276,
+                    294
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 138,
+                "workout_name": "Bulk Boy Summer Week 9 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    8,
+                    231,
+                    89,
+                    55,
+                    78,
+                    162
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 139,
+                "workout_name": "Bulk Boy Summer Week 9 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    116,
+                    94,
+                    7,
+                    108,
+                    276,
+                    92
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 140,
+                "workout_name": "Bulk Boy Summer Week 9 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    2,
+                    177,
+                    101,
+                    105,
+                    51,
+                    32
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 141,
+                "workout_name": "Bulk Boy Summer Week 9 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    24,
+                    46,
+                    119,
+                    25,
+                    179,
+                    152,
+                    256
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 142,
+                "workout_name": "Bulk Boy Summer Week 10 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    176,
+                    116,
+                    202,
+                    158,
+                    276,
+                    294
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 143,
+                "workout_name": "Bulk Boy Summer Week 10 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    8,
+                    231,
+                    89,
+                    55,
+                    78,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 144,
+                "workout_name": "Bulk Boy Summer Week 10 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    116,
+                    94,
+                    7,
+                    108,
+                    276,
+                    92
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 145,
+                "workout_name": "Bulk Boy Summer Week 10 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    2,
+                    177,
+                    101,
+                    105,
+                    51,
+                    32
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 146,
+                "workout_name": "Bulk Boy Summer Week 10 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    24,
+                    46,
+                    119,
+                    25,
+                    179,
+                    152,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 147,
+                "workout_name": "Bulk Boy Summer Week 11 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    176,
+                    116,
+                    202,
+                    158,
+                    276,
+                    294
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 148,
+                "workout_name": "Bulk Boy Summer Week 11 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    8,
+                    231,
+                    89,
+                    55,
+                    78,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 149,
+                "workout_name": "Bulk Boy Summer Week 11 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    116,
+                    94,
+                    7,
+                    108,
+                    276,
+                    92
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 150,
+                "workout_name": "Bulk Boy Summer Week 11 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    2,
+                    177,
+                    101,
+                    105,
+                    51,
+                    32
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 151,
+                "workout_name": "Bulk Boy Summer Week 11 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    24,
+                    46,
+                    119,
+                    25,
+                    179,
+                    152,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 152,
+                "workout_name": "Bulk Boy Summer Week 12 Workout: 1",
+                "muscles": [
+                    5,
+                    6,
+                    5,
+                    2,
+                    3,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    13,
+                    176,
+                    116,
+                    202,
+                    158,
+                    276,
+                    294
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 153,
+                "workout_name": "Bulk Boy Summer Week 12 Workout: 2",
+                "muscles": [
+                    1,
+                    3,
+                    1,
+                    6,
+                    5,
+                    8,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    19,
+                    8,
+                    231,
+                    89,
+                    55,
+                    78,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 154,
+                "workout_name": "Bulk Boy Summer Week 12 Workout: 3",
+                "muscles": [
+                    6,
+                    5,
+                    7,
+                    3,
+                    2,
+                    4,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    14,
+                    116,
+                    94,
+                    7,
+                    108,
+                    276,
+                    92
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 155,
+                "workout_name": "Bulk Boy Summer Week 12 Workout: 4",
+                "muscles": [
+                    3,
+                    1,
+                    3,
+                    5,
+                    6,
+                    9,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    22,
+                    2,
+                    177,
+                    101,
+                    105,
+                    51,
+                    32
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 156,
+                "workout_name": "Bulk Boy Summer Week 12 Workout: 5",
+                "muscles": [
+                    7,
+                    6,
+                    7,
+                    1,
+                    3,
+                    2,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    24,
+                    46,
+                    119,
+                    25,
+                    179,
+                    152,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ]
+    ]
+}

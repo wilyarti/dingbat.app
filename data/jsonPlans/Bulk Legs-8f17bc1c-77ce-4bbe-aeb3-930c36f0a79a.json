@@ -1,0 +1,3427 @@
+{
+    "weekSettings": {
+        "week_id": null,
+        "week_name": "Example Week",
+        "number_of_days": 7,
+        "number_of_workouts": 5,
+        "workouts": [],
+        "workouts_indexs": [
+            0,
+            1,
+            null,
+            2,
+            4,
+            5,
+            null,
+            null
+        ],
+        "number_of_cardio": 2,
+        "cardio": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        "cardio_indexs": [
+            null,
+            null,
+            0,
+            null,
+            null,
+            1,
+            null
+        ]
+    },
+    "weekSettingsArray": [
+        {
+            "week_id": 37,
+            "week_name": "Bulk Legs Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                157,
+                158,
+                159,
+                160
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 38,
+            "week_name": "Bulk Legs Week 2",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                161,
+                162,
+                163,
+                164
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 39,
+            "week_name": "Bulk Legs Week 3",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                165,
+                166,
+                167,
+                168
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 40,
+            "week_name": "Bulk Legs Week 4",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                169,
+                170,
+                171,
+                172
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 41,
+            "week_name": "Bulk Legs Week 5",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                173,
+                174,
+                175,
+                176
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 42,
+            "week_name": "Bulk Legs Week 6",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                177,
+                178,
+                179,
+                180
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 43,
+            "week_name": "Bulk Legs Week 7",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                181,
+                182,
+                183,
+                184
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 44,
+            "week_name": "Bulk Legs Week 8",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                185,
+                186,
+                187,
+                188
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 45,
+            "week_name": "Bulk Legs Week 9",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                189,
+                190,
+                191,
+                192
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 46,
+            "week_name": "Bulk Legs Week 10",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                193,
+                194,
+                195,
+                196
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 47,
+            "week_name": "Bulk Legs Week 11",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                197,
+                198,
+                199,
+                200
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        },
+        {
+            "week_id": 48,
+            "week_name": "Bulk Legs Week 12",
+            "number_of_days": 7,
+            "number_of_workouts": 4,
+            "workouts": [
+                201,
+                202,
+                203,
+                204
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                false,
+                true,
+                true,
+                false,
+                false
+            ],
+            "number_of_cardio": 2,
+            "cardio": [
+                "Light cardio^ (30-45 mins)",
+                "Light cardio^ (30-45 mins)"
+            ],
+            "cardio_indexs": [
+                false,
+                false,
+                true,
+                false,
+                false,
+                true,
+                false
+            ]
+        }
+    ],
+    "planSettings": {
+        "plan_id": 4,
+        "price": 0,
+        "plan_name": "Bulk Legs",
+        "owner": 0,
+        "number_of_weeks": 12,
+        "weeks": [],
+        "description": "<p>This program is designed to train primarily the legs. It features:<\/p><ul><li>12 Weeks with periodization<\/li><li>Focus on leg development<\/li><li>4 training days per week<\/li><li>2 cardio sessions per week<\/li><li>Main exercises change every month<\/li><\/ul><p><br><\/p>"
+    },
+    "planSelected": "4",
+    "workoutSettings": {
+        "workout_id": null,
+        "workout_name": "Workout Name",
+        "muscles": [],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 4,
+        "exercises": [],
+        "exercises_sets": [],
+        "exercises_reps": [],
+        "adapter": 0,
+        "adapter_array": []
+    },
+    "workoutSettingsArray": [
+        [
+            {
+                "workout_id": 157,
+                "workout_name": "Bulk Legs Week 1 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    22,
+                    253,
+                    124,
+                    64,
+                    91,
+                    3
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 158,
+                "workout_name": "Bulk Legs Week 1 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    197,
+                    30,
+                    250,
+                    71,
+                    214,
+                    265
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 159,
+                "workout_name": "Bulk Legs Week 1 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    6,
+                    50,
+                    108,
+                    262,
+                    119,
+                    256
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 160,
+                "workout_name": "Bulk Legs Week 1 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    23,
+                    144,
+                    177,
+                    229,
+                    65,
+                    272
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 161,
+                "workout_name": "Bulk Legs Week 2 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    22,
+                    253,
+                    124,
+                    64,
+                    91,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 162,
+                "workout_name": "Bulk Legs Week 2 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    197,
+                    30,
+                    250,
+                    71,
+                    214,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 163,
+                "workout_name": "Bulk Legs Week 2 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    6,
+                    50,
+                    108,
+                    262,
+                    119,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 164,
+                "workout_name": "Bulk Legs Week 2 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    23,
+                    144,
+                    177,
+                    229,
+                    65,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 165,
+                "workout_name": "Bulk Legs Week 3 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    22,
+                    253,
+                    124,
+                    64,
+                    91,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 166,
+                "workout_name": "Bulk Legs Week 3 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    197,
+                    30,
+                    250,
+                    71,
+                    214,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 167,
+                "workout_name": "Bulk Legs Week 3 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    6,
+                    50,
+                    108,
+                    262,
+                    119,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 168,
+                "workout_name": "Bulk Legs Week 3 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    23,
+                    144,
+                    177,
+                    229,
+                    65,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 169,
+                "workout_name": "Bulk Legs Week 4 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    22,
+                    253,
+                    124,
+                    64,
+                    91,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 170,
+                "workout_name": "Bulk Legs Week 4 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    197,
+                    30,
+                    250,
+                    71,
+                    214,
+                    265
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 171,
+                "workout_name": "Bulk Legs Week 4 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    6,
+                    50,
+                    108,
+                    262,
+                    119,
+                    256
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 172,
+                "workout_name": "Bulk Legs Week 4 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    23,
+                    144,
+                    177,
+                    229,
+                    65,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 173,
+                "workout_name": "Bulk Legs Week 5 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    7,
+                    18,
+                    124,
+                    157,
+                    89,
+                    204
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 174,
+                "workout_name": "Bulk Legs Week 5 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    153,
+                    202,
+                    173,
+                    157,
+                    13,
+                    146
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 175,
+                "workout_name": "Bulk Legs Week 5 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    179,
+                    125,
+                    138,
+                    96,
+                    56,
+                    3
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 176,
+                "workout_name": "Bulk Legs Week 5 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    31,
+                    219,
+                    158,
+                    64,
+                    55,
+                    40
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 177,
+                "workout_name": "Bulk Legs Week 6 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    7,
+                    18,
+                    124,
+                    157,
+                    89,
+                    204
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 178,
+                "workout_name": "Bulk Legs Week 6 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    153,
+                    202,
+                    173,
+                    157,
+                    13,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 179,
+                "workout_name": "Bulk Legs Week 6 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    179,
+                    125,
+                    138,
+                    96,
+                    56,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 180,
+                "workout_name": "Bulk Legs Week 6 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    31,
+                    219,
+                    158,
+                    64,
+                    55,
+                    40
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 181,
+                "workout_name": "Bulk Legs Week 7 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    7,
+                    18,
+                    124,
+                    157,
+                    89,
+                    204
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 182,
+                "workout_name": "Bulk Legs Week 7 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    153,
+                    202,
+                    173,
+                    157,
+                    13,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 183,
+                "workout_name": "Bulk Legs Week 7 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    179,
+                    125,
+                    138,
+                    96,
+                    56,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 184,
+                "workout_name": "Bulk Legs Week 7 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    31,
+                    219,
+                    158,
+                    64,
+                    55,
+                    40
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 185,
+                "workout_name": "Bulk Legs Week 8 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    7,
+                    18,
+                    124,
+                    157,
+                    89,
+                    204
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 186,
+                "workout_name": "Bulk Legs Week 8 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    153,
+                    202,
+                    173,
+                    157,
+                    13,
+                    146
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 187,
+                "workout_name": "Bulk Legs Week 8 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    179,
+                    125,
+                    138,
+                    96,
+                    56,
+                    3
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 188,
+                "workout_name": "Bulk Legs Week 8 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    31,
+                    219,
+                    158,
+                    64,
+                    55,
+                    40
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 189,
+                "workout_name": "Bulk Legs Week 9 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    148,
+                    1,
+                    181,
+                    269,
+                    101,
+                    162
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 190,
+                "workout_name": "Bulk Legs Week 9 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    152,
+                    30,
+                    7,
+                    60,
+                    75,
+                    272
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 191,
+                "workout_name": "Bulk Legs Week 9 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    264,
+                    148,
+                    219,
+                    96,
+                    120,
+                    154
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 192,
+                "workout_name": "Bulk Legs Week 9 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    23,
+                    114,
+                    8,
+                    167,
+                    46,
+                    53
+                ],
+                "exercises_sets": [
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    12,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 193,
+                "workout_name": "Bulk Legs Week 10 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    148,
+                    1,
+                    181,
+                    269,
+                    101,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 194,
+                "workout_name": "Bulk Legs Week 10 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    152,
+                    30,
+                    7,
+                    60,
+                    75,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 195,
+                "workout_name": "Bulk Legs Week 10 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    264,
+                    148,
+                    219,
+                    96,
+                    120,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 196,
+                "workout_name": "Bulk Legs Week 10 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    23,
+                    114,
+                    8,
+                    167,
+                    46,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    10,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 197,
+                "workout_name": "Bulk Legs Week 11 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    148,
+                    1,
+                    181,
+                    269,
+                    101,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 198,
+                "workout_name": "Bulk Legs Week 11 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    152,
+                    30,
+                    7,
+                    60,
+                    75,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 199,
+                "workout_name": "Bulk Legs Week 11 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    264,
+                    148,
+                    219,
+                    96,
+                    120,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 200,
+                "workout_name": "Bulk Legs Week 11 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    23,
+                    114,
+                    8,
+                    167,
+                    46,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    3,
+                    3,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    8,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 201,
+                "workout_name": "Bulk Legs Week 12 Workout: 1",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    5,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    81,
+                    148,
+                    1,
+                    181,
+                    269,
+                    101,
+                    162
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 202,
+                "workout_name": "Bulk Legs Week 12 Workout: 2",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    152,
+                    30,
+                    7,
+                    60,
+                    75,
+                    272
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 203,
+                "workout_name": "Bulk Legs Week 12 Workout: 3",
+                "muscles": [
+                    4,
+                    3,
+                    3,
+                    2,
+                    1,
+                    7,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    183,
+                    264,
+                    148,
+                    219,
+                    96,
+                    120,
+                    154
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "workout_id": 204,
+                "workout_name": "Bulk Legs Week 12 Workout: 4",
+                "muscles": [
+                    4,
+                    2,
+                    2,
+                    3,
+                    1,
+                    6,
+                    11
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 7,
+                "exercises": [
+                    276,
+                    23,
+                    114,
+                    8,
+                    167,
+                    46,
+                    53
+                ],
+                "exercises_sets": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    3,
+                    3
+                ],
+                "exercises_reps": [
+                    6,
+                    12,
+                    12,
+                    15,
+                    15,
+                    15,
+                    0
+                ],
+                "adapter": 0,
+                "adapter_array": {
+                    "one_rep_max": [
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75,
+                        75
+                    ]
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            },
+            {
+                "adapter_array": {
+                    "one_rep_max": []
+                }
+            }
+        ]
+    ]
+}

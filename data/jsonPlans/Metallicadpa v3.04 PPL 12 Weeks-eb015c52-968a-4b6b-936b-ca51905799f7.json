@@ -1,0 +1,6251 @@
+{
+    "weekSettings": {
+        "week_id": 631,
+        "week_name": "Metallicadpa v3.04 PPL Week 1",
+        "number_of_days": 7,
+        "number_of_workouts": 6,
+        "workouts": [],
+        "workouts_indexs": [
+            0,
+            1,
+            2,
+            null,
+            3,
+            4,
+            5
+        ],
+        "number_of_cardio": 0,
+        "cardio": [],
+        "cardio_indexs": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    },
+    "weekSettingsArray": [
+        {
+            "week_id": 631,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2860,
+                2861,
+                2862,
+                2863,
+                2864,
+                2865
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 632,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2866,
+                2867,
+                2868,
+                2869,
+                2870,
+                2871
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 633,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2872,
+                2873,
+                2874,
+                2875,
+                2876,
+                2877
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 634,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2878,
+                2879,
+                2880,
+                2881,
+                2882,
+                2883
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 635,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2884,
+                2885,
+                2886,
+                2887,
+                2888,
+                2889
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 636,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2890,
+                2891,
+                2892,
+                2893,
+                2894,
+                2895
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 637,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2896,
+                2897,
+                2898,
+                2899,
+                2900,
+                2901
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 638,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2902,
+                2903,
+                2904,
+                2905,
+                2906,
+                2907
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 639,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2908,
+                2909,
+                2910,
+                2911,
+                2912,
+                2913
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 640,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2914,
+                2915,
+                2916,
+                2917,
+                2918,
+                2919
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 641,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2920,
+                2921,
+                2922,
+                2923,
+                2924,
+                2925
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 642,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2926,
+                2927,
+                2928,
+                2929,
+                2930,
+                2931
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        },
+        {
+            "week_id": 643,
+            "week_name": "Metallicadpa v3.04 PPL Week 1",
+            "number_of_days": 7,
+            "number_of_workouts": 6,
+            "workouts": [
+                2932,
+                2933,
+                2934,
+                2935,
+                2936,
+                2937
+            ],
+            "workouts_indexs": [
+                true,
+                true,
+                true,
+                false,
+                true,
+                true,
+                true
+            ],
+            "number_of_cardio": 0,
+            "cardio": [],
+            "cardio_indexs": [
+                false,
+                false,
+                false,
+                false,
+                false,
+                false,
+                false
+            ]
+        }
+    ],
+    "planSettings": {
+        "plan_id": 63,
+        "price": 0,
+        "plan_name": "Metallicadpa v3.04 PPL 12 Weeks",
+        "owner": 1,
+        "number_of_weeks": 13,
+        "weeks": [],
+        "description": "<p>Taken from Redit this is a Push\/Pull Legs program with the following features:<\/p><p><br><\/p><ul><li>6 workouts a week<\/li><li>12 weeks in length (1st week is for 1RMs)<\/li><li>Linear Periodization<\/li><\/ul><p><br><\/p><p><br><\/p><p>The first week is to establish the 1RM for the rest of the plan. This is needed to autocalculate the following 12 weeks.<\/p><p><br><\/p><p><br><\/p><p><br><\/p>"
+    },
+    "planSelected": "63",
+    "workoutSettings": {
+        "workout_id": null,
+        "workout_name": "Workout Name",
+        "muscles": [],
+        "number_of_circuits": 0,
+        "circuits": [],
+        "circuit_sets": [],
+        "circuit_reps": [],
+        "number_of_exercises": 4,
+        "exercises": [],
+        "exercises_sets": [],
+        "exercises_reps": [],
+        "adapter": 0,
+        "adapter_array": {
+            "one_rep_max": [],
+            "as_many_reps_as_possible": [],
+            "time_under_tension": [],
+            "rest_per_set": []
+        }
+    },
+    "workoutSettingsArray": [
+        [
+            {
+                "workout_id": 2860,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "exercises_reps": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2861,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "exercises_reps": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2862,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "exercises_reps": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2863,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "exercises_reps": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2864,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "exercises_reps": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2865,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "exercises_reps": [
+                    "1",
+                    "1",
+                    "1",
+                    "1",
+                    "1"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2866,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2867,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2868,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2869,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2870,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2871,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2872,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2873,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2874,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2875,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2876,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2877,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2878,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2879,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2880,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2881,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2882,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2883,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2884,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2885,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2886,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2887,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2888,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2889,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2890,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2891,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2892,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2893,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2894,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2895,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2896,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2897,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2898,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2899,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2900,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2901,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2902,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2903,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2904,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2905,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2906,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2907,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2908,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2909,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2910,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2911,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2912,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2913,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2914,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2915,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2916,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2917,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2918,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2919,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2920,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2921,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2922,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2923,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2924,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2925,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2926,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2927,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2928,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2929,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2930,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2931,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ],
+        [
+            {
+                "workout_id": 2932,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    1,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "19",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "1",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2933,
+                "workout_name": "Week: 1 Workout: 2",
+                "muscles": [
+                    5,
+                    7,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "13",
+                    "26",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2934,
+                "workout_name": "Week: 1 Workout: 4",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2935,
+                "workout_name": "Week: 1 Workout: 1",
+                "muscles": [
+                    6,
+                    6,
+                    6,
+                    6,
+                    8,
+                    8
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "14",
+                    "190",
+                    "65",
+                    "266",
+                    "106",
+                    "99"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "5",
+                    "4",
+                    "4"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "15",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "30",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2936,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    7,
+                    5,
+                    5,
+                    9,
+                    9,
+                    7
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 6,
+                "exercises": [
+                    "26",
+                    "13",
+                    "116",
+                    "77",
+                    "59",
+                    "119"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "3",
+                    "3"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8",
+                    "15"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40",
+                        "30"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            },
+            {
+                "workout_id": 2937,
+                "workout_name": "Week: 1 Workout: 3",
+                "muscles": [
+                    3,
+                    2,
+                    3,
+                    2,
+                    4
+                ],
+                "number_of_circuits": 0,
+                "circuits": [],
+                "circuit_sets": [],
+                "circuit_reps": [],
+                "number_of_exercises": 5,
+                "exercises": [
+                    "12",
+                    "30",
+                    "179",
+                    "197",
+                    "81"
+                ],
+                "exercises_sets": [
+                    "5",
+                    "3",
+                    "3",
+                    "3",
+                    "5"
+                ],
+                "exercises_reps": [
+                    "5",
+                    "8",
+                    "8",
+                    "8",
+                    "8"
+                ],
+                "adapter": "2",
+                "adapter_array": {
+                    "one_rep_max": [
+                        "65",
+                        "40",
+                        "40",
+                        "40",
+                        "40"
+                    ],
+                    "as_many_reps_as_possible": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "time_under_tension": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ],
+                    "rest_per_set": [
+                        null,
+                        null,
+                        null,
+                        null,
+                        null
+                    ]
+                }
+            }
+        ]
+    ]
+}
