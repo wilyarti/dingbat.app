@@ -26,7 +26,7 @@ class PlanAdapter
 
             //var_dump($workout['adapter_array']['one_rep_max']);
             //var_dump($oneRepMax['one_rep_max']);
-            if (isset($workout['adapter_array']['one_rep_max'][$key])) {
+            if (isset($workout['adapter_array']['one_rep_max'][$key]) && isset($oneRepMax['one_rep_max'] )) {
                 $workoutTargets[$key] = ($oneRepMax['one_rep_max'] * intval($workout['adapter_array']['one_rep_max'][$key])) / 100;
             } else {
                 $workoutTargets[$key] = null;

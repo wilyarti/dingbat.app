@@ -79,7 +79,7 @@ It uses Laravel and Livewire with Mysql. I wrote it two years ago and still use 
 You will need to install PHP-8.0.
 
 On Ubuntu:
-> sudo apt install php8.0 php8.0-fpm libapache2-mod-php8.0 php8.0-mbstring php8.0-cli php8.0-bcmath php8.0-xml php8.0-zip  php8.0-mysql php8.0-curl
+> sudo apt install php8.0 php8.0-fpm libapache2-mod-php8.0 php8.0-mbstring php8.0-cli php8.0-bcmath php8.0-xml php8.0-zip  php8.0-mysql php8.0-curl php-gd
 > sudo apt install composer
 > sudo apt install mysql-server
 
@@ -90,6 +90,7 @@ First you need to create the MySQL databases:
 > create user 'dingbatexampleuser'@'localhost' IDENTIFIED BY 'dingbatexamplepassword';
 > grant all privileges on dingbatexample.* to 'dingbatexampleuser'@'localhost';
 > flush privileges;
+> create database dingbatexample;
 
 Then run the composer commands:
 > composer install
